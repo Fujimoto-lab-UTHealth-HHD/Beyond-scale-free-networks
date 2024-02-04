@@ -1,6 +1,6 @@
-# Beyond-scale-free-networks
+# Beyond scale-free networks: integrating multilayer social networks with molecular clusters in the local spread of COVID-19
 
-##DOI
+## DOI
 10.1038/s41598-023-49109-x
 
 ## Abstract
