@@ -1,8 +1,8 @@
 # Beyond scale-free networks: integrating multilayer social networks with molecular clusters in the local spread of COVID-19
 
 This repository contains the R code and R package for the article. 
-*SFDegree: R-package for testing the scale-free network hypothesis
-*Network Analysis-data-processing.r: R code for analyzing and testing the scale-free network
+* SFDegree: R-package for testing the scale-free network hypothesis
+* Network Analysis-data-processing-and-analysis.R: R code for analyzing and testing the scale-free network
 
 ### DOI
 10.1038/s41598-023-49109-x
